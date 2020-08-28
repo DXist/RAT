@@ -3,7 +3,7 @@ set -e
 set -x
 export LANG=en_US.UTF-8
 #export CUDA_VISIBLE_DEVICES=5
-pip install pandas
+#pip install pandas
 
 
 
@@ -83,5 +83,5 @@ done
 done
 done
 done
-done
+#done
 
